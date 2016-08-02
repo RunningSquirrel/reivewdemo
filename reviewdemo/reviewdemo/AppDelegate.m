@@ -19,7 +19,7 @@
     // Override point for customization after application launch.
     NSLog(@"qwewqeqeqweqeqeqwe");
     NSLog(@"%s", __FUNCTION__);
-    NSLog(@"qwewqeqeqweqeqeqwe"); NSLog(@"1231312313113213432543625247"); // add some comment
+    NSLog(@"qwewqeqeqweqeqeqwe"); 
     NSLog(@"%s add RT422559", __FUNCTION__);
     NSLog(@"fixed TEST issue 1 #4");
     return YES;
