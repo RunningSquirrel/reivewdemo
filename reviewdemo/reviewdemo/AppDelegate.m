@@ -21,6 +21,7 @@
     NSLog(@"%s", __FUNCTION__);
     NSLog(@"qwewqeqeqweqeqeqwe"); NSLog(@"12313123131"); // add some comment
     NSLog(@"%s add RT422559", __FUNCTION__);
+    NSLog(@"fixed TEST issue 1 #4");
     return YES;
 }
 
